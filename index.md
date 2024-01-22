@@ -2,7 +2,7 @@
 - tasky comes as a single batchfile, making it very portable.
 - It has a simple command-based interface.
 - It's useful for if task manager won't work, such as if it's corrupted or blocked by your organization.
-- Being a batch file, it's easy on resources and doesn't have any dependencies.
+- Being a batchfile, it's easy on resources and doesn't have any dependencies.
 
 # How do I install it?
 Just extract the `tasky.bat` batchfile from the main repository.
