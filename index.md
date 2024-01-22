@@ -5,7 +5,7 @@
 - Being a batch file, it's easy on resources and doesn't have any dependencies.
 
 # How do I install it?
-Just download the `tasky.bat` batchfile from the main repository.
+Just extract the `tasky.bat` batchfile from the main repository.
 
 # What about Linux?
 Bash support might come later. If you want to port it feel free to contribute!
